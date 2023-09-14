@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkbu_project_planner_web_ui=self.webpackChunkbu_project_planner_web_ui||[]).push([[334],{334:(t,n,_)=>{_.r(n),_.d(n,{ProjectsModule:()=>l});var e=_(814),u=_(803),c=_(946);let l=(()=>{class o{}return o.\u0275fac=function(s){return new(s||o)},o.\u0275mod=c.oAB({type:o}),o.\u0275inj=c.cJS({imports:[e.ez,u.p]}),o})()}}]);

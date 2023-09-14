@@ -1,0 +1,6 @@
+<svg width="30px" height="500px" viewBox="0 0 30 500"  >
+          <circle cx="10" cy="0" r="10" fill="#ffff" />
+          <line x1="10" y1="0" x2="10" y2="500" style="stroke:rbg(1,2,34);stroke-width:2" stroke-dasharray="5,5" />
+           <circle cx="0" cy="100" r="20" fill="red" />
+          <circle cx="10" cy="500" r="11" fill="#ffff" />
+        </svg>
